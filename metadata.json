@@ -1,0 +1,10 @@
+{
+  "name": "OpenLearn AI — Accessible Learning Assistant",
+  "description": "An accessible AI learning workspace that simplifies text, translates educational materials into multiple languages, generates revision notes, flashcards, quizzes, audio speech, and provides grounded learning assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
